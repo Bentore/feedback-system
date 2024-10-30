@@ -12,3 +12,4 @@ transformers
 sentence-transformers
 torch
 pillow
+protobuf
