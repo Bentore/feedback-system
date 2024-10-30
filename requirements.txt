@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-experimental
+langchain-community
+langchain-chroma
+python-dotenv
+google-generativeai
+openai
+chromadb
+pypdf
+transformers
+sentence-transformers
+torch
+pillow
